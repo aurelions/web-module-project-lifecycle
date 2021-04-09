@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    background-color: cornflowerblue;
+    margin: 15vh;
+}
+
+.username{
+    font-size: 4rem;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    color: crimson;
+    text-shadow: 1px 1px black;
+    text-decoration: underline;
+}
+
+img{
+    border-radius: 50%;
+
+}
+
+.mainbody{
+    color: white;
+    text-shadow: 2px 2px black;
+    width: 20%;
+    margin-left: 5vw;
+}
